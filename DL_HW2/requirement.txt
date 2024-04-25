@@ -1,0 +1,11 @@
+pandas
+numpy
+django
+django-cors-headers
+djangorestframework
+gensim
+nltk
+requests
+scikit-learn
+torch
+tqdm
