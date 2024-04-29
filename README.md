@@ -152,7 +152,7 @@
   接著請用Ctrl+A+D跳出screen再接著到Step.4。
   ### Step.4 使用機器人
   ```
-  python3 test.py
+  python3 test.py 8080
   ```
   ### Step.5 輸入訊息並接收回覆，輸入`exit`則結束操作
   ```
